@@ -1,0 +1,22 @@
+div.pagina {text-align: center;}
+div.container-header {background-color: black;}
+h2.h2blu { color: rgb(117, 201, 229);}
+h1.main-title {color: rgb(117, 201, 229);}
+div.box1{background-image: url(banner.jpg);
+         background-position: center;
+        background-size: auto;
+        justify-content: center;
+        align-items: center;
+        height: 200px;}
+#partiamo {background-color: orange;
+color: white;}
+div.round-container {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden; }
+div.round-container img {    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;}
