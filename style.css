@@ -20,3 +20,18 @@ div.round-container img {    width: 100%;
     display: block;
     border-radius: 50%;
     object-fit: cover;}
+#divred {background-color: red;}
+#h1red {color: white;}
+#pred { color: white;}
+#h2red {color: white;}
+#h3red {color: white;}
+div.container {    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;}
+footer.footer {background-color:  rgb(117, 201, 229);}
+p.Contattaci {color: white;}
+p#indirizzo {color: white;}
+p#Email {color: white;}
+p#numero-telefono {color: white;}
+p#closing {color: white;}
