@@ -28,7 +28,8 @@ div.round-container img {    width: 100%;
 div.container {    position: relative;
     width: 80%;
     margin: 0 auto;
-    overflow: hidden;}
+    overflow: hidden;
+    border: 1px solid #333;}
 footer.footer {background-color:  rgb(117, 201, 229);}
 p.Contattaci {color: white;}
 p#indirizzo {color: white;}
